@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Valery-Rigz/Valery-Rigz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Valery Rodriguez</h1>
