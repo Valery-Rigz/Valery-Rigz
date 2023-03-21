@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Valery Rodriguez</h1>
+<h1 align="center">Salutations! 👋, I'm Valery Rodriguez</h1>
 <h3 align="center">A passionate learner for Web Developing</h3>
 
 - 🔭 I’m currently working on [Immersive Escape Room]
