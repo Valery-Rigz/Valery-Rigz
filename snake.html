@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snake</title>
+    <link rel="stylesheet" href="snake.css">
+</head>
+<body>
+    <body onload="play_game()">
+        <h1>Play Snake Game</h1>
+        <h2>Press Space to Pause Game</h2>
+        <button type="btn" id="pausebtn"onclick="gamePause()">Pause</button>
+        <button type="btn" id="resumebtn" onclick="resumeGame()" >Resume</button>
+        <div id="show"></div>
+        <canvas id="playArea" width="450" height="300">Sorry your browser does not support HTML5. Try using like Chrome or Firefox.</canvas>
+        <h2>Leaderboard</h2>
+        <ol id="highScores"></ol>
+        <script src="snake.js"></script>
+</body>
+</html>

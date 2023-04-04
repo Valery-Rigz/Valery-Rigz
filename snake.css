@@ -1,0 +1,14 @@
+body {
+    text-align:center;
+    background-color: bisque;
+}
+canvas { 
+    border:7px solid #4A4747 
+}
+h1 { 
+    font-size:35px; 
+    text-align: center;
+    margin: 0;
+    padding-bottom: 25px;
+    font-family: Geneva; color: #0520A5;
+}
