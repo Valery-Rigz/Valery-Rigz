@@ -1,4 +1,4 @@
-![Valery Rodriguez](https://user-images.githubusercontent.com/111819022/234403630-b8f29a67-3e71-40ed-b705-fd437d702908.png)
+![7f2cff94fd4d055faf2760cb3648b80e](https://user-images.githubusercontent.com/111819022/234403894-9e781f12-6f77-4618-bf15-2d24775af26b.gif)
 
 <h1 align="center">Salutations! 👋, I'm Valery Rodriguez</h1>
 <h3 align="center">A passionate learner for Web Developing</h3>
