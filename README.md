@@ -16,6 +16,8 @@
 - 📫 How to reach me **valeryer003@gmail.com**
 
 - ⚡ Fun fact **I make a hamburger**
+-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Valery-Rigz.Valery-Rigz)
+
  
 ![tumblr_nw0kb5HKmh1udvy5wo1_400](https://user-images.githubusercontent.com/111819022/234404227-14204411-2c23-4220-a53e-008088ff91b7.gif)
 
