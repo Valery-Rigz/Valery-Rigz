@@ -1,3 +1,5 @@
+![Valery Rodriguez](https://user-images.githubusercontent.com/111819022/234403630-b8f29a67-3e71-40ed-b705-fd437d702908.png)
+
 <h1 align="center">Salutations! 👋, I'm Valery Rodriguez</h1>
 <h3 align="center">A passionate learner for Web Developing</h3>
 
