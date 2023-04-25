@@ -1,5 +1,3 @@
-![7f2cff94fd4d055faf2760cb3648b80e](https://user-images.githubusercontent.com/111819022/234403894-9e781f12-6f77-4618-bf15-2d24775af26b.gif)
-
 <h1 align="center">Salutations! 👋, I'm Valery Rodriguez</h1>
 <h3 align="center">A passionate learner for Web Developing</h3>
 
@@ -17,7 +15,9 @@
 
 - 📫 How to reach me **valeryer003@gmail.com**
 
-- ⚡ Fun fact **I try but kinda fail on cooking**
+- ⚡ Fun fact **I make a hamburger**
+ 
+![tumblr_nw0kb5HKmh1udvy5wo1_400](https://user-images.githubusercontent.com/111819022/234404227-14204411-2c23-4220-a53e-008088ff91b7.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
