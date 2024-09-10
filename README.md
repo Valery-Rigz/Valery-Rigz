@@ -9,7 +9,6 @@
 
 - 🤝 I’m looking for help with **Immersive Escape Room**
 
-- 📝 I regularly draw and post on Instagram [@valkirey.tra](@valkirey.tra)
 
 - 💬 Ask me about **Basic CSS, HTML and JavaScript**
 
