@@ -5,11 +5,6 @@
 
 - 🌱 I’m currently learning **PHP and Data Base Design**
 
-- 👯 I’m looking to collaborate on **Immersive Escape Room**
-
-- 🤝 I’m looking for help with **Immersive Escape Room**
-
-
 - 💬 Ask me about **Basic CSS, HTML and JavaScript**
 
 - 📫 How to reach me **valeryer003@gmail.com**
